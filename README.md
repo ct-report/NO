@@ -7,6 +7,11 @@ App requests also to register the phone number on FHI portal. However, such regi
 
 According to FHI public stats, the number of active users as of 5 May 2020 is 749365. Only 32711 are using the app in 'partial activation' mode.
 
+**On June 15th the Norwegian Institute of Public Health (FHI) received a notification from the Norwegian Data Protection Authority (NDPA) imposing a temporary ban on processing personal data collected by the app.**
+
+**Since June 16th data will no longer be collected from the app. Personal data stored in the central database will be deleted as soon as possible. Further details [HERE](https://www.fhi.no/en/news/2020/niph-stops-collection-of-personal-data-in-smittestopp/).**
+
+
 Play Store | https://play.google.com/store/apps/details?id=no.simula.smittestopp
 -----------|--------------------------------------------------------------------
 Website | https://helsenorge.no/coronavirus/smittestopp
