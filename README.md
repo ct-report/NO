@@ -1,9 +1,38 @@
 # NO
 Contact Tracing - Norway
 
+![](apkicon_NO2.png)
+
+**Smittestopp** 2 has been developed by NetCompany for the Norwegian Institute of Public Health (FHI). Decentralized solution - based on GAEN Apple&Google Exposure Notifications framework.
+
+Its development begun at the end of September 2020, after that the Norwegian Data Protection Authority (NDPA) stopped former release (read below). Further details [HERE](https://www.fhi.no/en/news/2020/niph-starts-work-on-a-new-solution-for-digital-contact-tracing/).
+
+Since the end of December 2020 it has been released on the iOS & Android app stores.
+
+Play Store | https://play.google.com/store/apps/details?id=no.fhi.smittestopp_exposure_notification
+-----------|--------------------------------------------------------------------
+Sources & Documentation | https://github.com/folkehelseinstituttet
+Website | https://www.helsenorge.no/en/smittestopp/
+Website | https://www.fhi.no/om/smittestopp/
+Stats | https://www.fhi.no/om/smittestopp/nokkeltall-fra-smittestopp/
+
+- APKLAB Analysis
+
+Build | Link
+------|-----
+3.0 #38 | https://apklab.io/apk.html?hash=ad0448b1afe16d994439010ed1439a5a2339dbd4d89b972d2298a6b806d1861f
+
+- JoeSandbox Report
+
+Build | Link
+------|-----
+3.0 #38 | https://www.joesandbox.com/analysis/427092/0/html
+
+-----------------------------------
+
 ![](apkicon_NO.png)
 
-**Smittestopp** developed by Simula for the Norwegian Institute of Public Health (FHI). Centralized solution. It relies on proximity tracing (via Bluetooth) + device location on demand (GPS). When user doesn't enable GPS location, app works in 'partial activation' mode.
+**Smittestopp** 1 has been developed by Simula for the Norwegian Institute of Public Health (FHI). Centralized solution. It relies on proximity tracing (via Bluetooth) + device location on demand (GPS). When user doesn't enable GPS location, app works in 'partial activation' mode.
 
 App requests also to register the phone number on FHI portal. However, such registration isn't compulsory since app can work in 'partial activation' mode.
 
@@ -13,7 +42,6 @@ According to FHI public stats, the number of active users as of 5 May 2020 is 74
 
 **Since June 16th data will no longer be collected from the app. Personal data stored in the central database will be deleted as soon as possible. Further details [HERE](https://www.fhi.no/en/news/2020/niph-stops-collection-of-personal-data-in-smittestopp/).**
 
-**Since Semptember 28th FHI started to work on a new contact-tracing app, that will relay on GAEN Apple&Google Exposure Notifications API Framework. Further details [HERE](https://www.fhi.no/en/news/2020/niph-starts-work-on-a-new-solution-for-digital-contact-tracing/).**
 
 Play Store | https://play.google.com/store/apps/details?id=no.simula.smittestopp
 -----------|--------------------------------------------------------------------
